@@ -4,6 +4,29 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+h2 {
+    color: brown;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: brown;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+ol {
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium; 
+}
+
 ul {
     color: chocolate;
     font-family: Arial, Helvetica, sans-serif;
